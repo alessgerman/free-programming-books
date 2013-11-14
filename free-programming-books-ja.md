@@ -197,6 +197,7 @@
 * [JavaScript 言語リファレンス](http://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
 * [JavaScript Programming](http://www.geocities.jp/m_hiroi/light/javascript.html)
 * [一撃必殺JavaScript日本語リファレンス](http://www.openspc2.org/JavaScript/)
+* [JavaScript入門] (http://www.ajaxtower.jp/js/)
 
 
 ####Backbone.js
@@ -294,6 +295,7 @@
 * [Python 2.7.2 ドキュメント日本語訳](http://docs.python.jp/2.7/)
 * [Python の学習](http://skitazaki.github.io/python-school-ja/index.html)
 * [Effective Python](http://morchin.sakura.ne.jp/effective_python/)
+* [みんなのPython 第三版] (http://coreblog.org/ats/minpy-web-is-now-free-to-read/)
 
 
 ###R
@@ -316,6 +318,8 @@
 * [ホワイの(感動的)Rubyガイド](http://www.aoky.net/articles/why_poignant_guide_to_ruby/)
 * [お気楽 Ruby プログラミング入門](http://www.geocities.jp/m_hiroi/light/ruby.html)
 
+###Ruby on Rails
+* [Ruby on Rails チュートリアル] (http://railstutorial-ja.herokuapp.com/)
 
 ###Scheme
 
